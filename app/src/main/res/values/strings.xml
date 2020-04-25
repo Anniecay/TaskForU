@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskForU</string>
+
+    <string-array name="array">
+        <item>ToDo</item>
+        <item>Email</item>
+        <item>Phone</item>
+        <item>Meeting</item>
+    </string-array>
+</resources>

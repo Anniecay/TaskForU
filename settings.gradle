@@ -1,0 +1,2 @@
+rootProject.name='TaskForU'
+include ':app'
